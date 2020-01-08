@@ -1,0 +1,38 @@
+{
+    "variables": {
+        "version": "1.0.1",
+        "name": "JiaaoYu"
+    },
+    "builders": [
+        {
+            "type": "amazon-ebs",
+            "region": "us-east-1",
+            "source_ami": "ami-0a313d6098716f372",
+            "instance_type": "t2.micro",
+            "ssh_username": "ubuntu",
+            "ssh_keypair_name": "yja-test",
+            "ssh_private_key_file": "yja-test.pem",
+            "ssh_timeout": "30m",
+            "ami_name": "my-angular-website AMI {{user `name`}}-{{user `version`}}"
+        }
+    ],
+    "provisioners": [
+        {
+            "type": "file",
+            "source": "website.zip",
+            "destination": "/home/ubuntu/"
+        },
+        {
+            "type": "shell",
+            "inline":[
+                "sleep 30",
+                "sudo apt install unzip",
+                "unzip website.zip",
+                "cd ShoppingWebsiteAngular",
+                "curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.32.0/install.sh | bash",
+                ". ~/.nvm/nvm.sh"
+            ]
+        }
+    ]
+   
+}

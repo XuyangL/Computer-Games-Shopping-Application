@@ -1,0 +1,84 @@
+C:/Users/Administrator/Desktop/assignment5-20190216T071209Z-001/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/bin/Debug/netcoreapp2.2/ShoppingWebsiteAPI.deps.json
+C:/Users/Administrator/Desktop/assignment5-20190216T071209Z-001/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/bin/Debug/netcoreapp2.2/ShoppingWebsiteAPI.runtimeconfig.json
+C:/Users/Administrator/Desktop/assignment5-20190216T071209Z-001/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/bin/Debug/netcoreapp2.2/ShoppingWebsiteAPI.runtimeconfig.dev.json
+C:/Users/Administrator/Desktop/assignment5-20190216T071209Z-001/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/bin/Debug/netcoreapp2.2/ShoppingWebsiteAPI.dll
+C:/Users/Administrator/Desktop/assignment5-20190216T071209Z-001/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/bin/Debug/netcoreapp2.2/ShoppingWebsiteAPI.pdb
+C:/Users/Administrator/Desktop/assignment5-20190216T071209Z-001/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/obj/Debug/netcoreapp2.2/ShoppingWebsiteAPI.csprojAssemblyReference.cache
+C:/Users/Administrator/Desktop/assignment5-20190216T071209Z-001/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/obj/Debug/netcoreapp2.2/ShoppingWebsiteAPI.csproj.CoreCompileInputs.cache
+C:/Users/Administrator/Desktop/assignment5-20190216T071209Z-001/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/obj/Debug/netcoreapp2.2/ShoppingWebsiteAPI.RazorAssemblyInfo.cache
+C:/Users/Administrator/Desktop/assignment5-20190216T071209Z-001/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/obj/Debug/netcoreapp2.2/ShoppingWebsiteAPI.RazorAssemblyInfo.cs
+C:/Users/Administrator/Desktop/assignment5-20190216T071209Z-001/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/obj/Debug/netcoreapp2.2/ShoppingWebsiteAPI.AssemblyInfoInputs.cache
+C:/Users/Administrator/Desktop/assignment5-20190216T071209Z-001/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/obj/Debug/netcoreapp2.2/ShoppingWebsiteAPI.AssemblyInfo.cs
+C:/Users/Administrator/Desktop/assignment5-20190216T071209Z-001/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/obj/Debug/netcoreapp2.2/ShoppingWebsiteAPI.RazorTargetAssemblyInfo.cache
+C:/Users/Administrator/Desktop/assignment5-20190216T071209Z-001/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/obj/Debug/netcoreapp2.2/ShoppingWebsiteAPI.dll
+C:/Users/Administrator/Desktop/assignment5-20190216T071209Z-001/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/obj/Debug/netcoreapp2.2/ShoppingWebsiteAPI.pdb
+/Users/jiaaoyu/Desktop/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/bin/Debug/netcoreapp2.2/ShoppingWebsiteAPI.deps.json
+/Users/jiaaoyu/Desktop/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/bin/Debug/netcoreapp2.2/ShoppingWebsiteAPI.runtimeconfig.json
+/Users/jiaaoyu/Desktop/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/bin/Debug/netcoreapp2.2/ShoppingWebsiteAPI.runtimeconfig.dev.json
+/Users/jiaaoyu/Desktop/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/bin/Debug/netcoreapp2.2/ShoppingWebsiteAPI.dll
+/Users/jiaaoyu/Desktop/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/bin/Debug/netcoreapp2.2/ShoppingWebsiteAPI.pdb
+/Users/jiaaoyu/Desktop/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/obj/Debug/netcoreapp2.2/ShoppingWebsiteAPI.csprojAssemblyReference.cache
+/Users/jiaaoyu/Desktop/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/obj/Debug/netcoreapp2.2/ShoppingWebsiteAPI.csproj.CoreCompileInputs.cache
+/Users/jiaaoyu/Desktop/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/obj/Debug/netcoreapp2.2/ShoppingWebsiteAPI.RazorAssemblyInfo.cache
+/Users/jiaaoyu/Desktop/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/obj/Debug/netcoreapp2.2/ShoppingWebsiteAPI.RazorAssemblyInfo.cs
+/Users/jiaaoyu/Desktop/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/obj/Debug/netcoreapp2.2/ShoppingWebsiteAPI.AssemblyInfoInputs.cache
+/Users/jiaaoyu/Desktop/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/obj/Debug/netcoreapp2.2/ShoppingWebsiteAPI.AssemblyInfo.cs
+/Users/jiaaoyu/Desktop/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/obj/Debug/netcoreapp2.2/ShoppingWebsiteAPI.RazorTargetAssemblyInfo.cache
+/Users/jiaaoyu/Desktop/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/obj/Debug/netcoreapp2.2/ShoppingWebsiteAPI.dll
+/Users/jiaaoyu/Desktop/assignment5/ShoppingWebsiteAPI/ShoppingWebsiteAPI/obj/Debug/netcoreapp2.2/ShoppingWebsiteAPI.pdb
+E:\learning\NEU\Web Development Tools and Methods\assignment\assignment5\ShoppingWebsiteAPI\ShoppingWebsiteAPI\bin\Debug\netcoreapp2.2\ShoppingWebsiteAPI.deps.json
+E:\learning\NEU\Web Development Tools and Methods\assignment\assignment5\ShoppingWebsiteAPI\ShoppingWebsiteAPI\bin\Debug\netcoreapp2.2\ShoppingWebsiteAPI.runtimeconfig.json
+E:\learning\NEU\Web Development Tools and Methods\assignment\assignment5\ShoppingWebsiteAPI\ShoppingWebsiteAPI\bin\Debug\netcoreapp2.2\ShoppingWebsiteAPI.runtimeconfig.dev.json
+E:\learning\NEU\Web Development Tools and Methods\assignment\assignment5\ShoppingWebsiteAPI\ShoppingWebsiteAPI\bin\Debug\netcoreapp2.2\ShoppingWebsiteAPI.dll
+E:\learning\NEU\Web Development Tools and Methods\assignment\assignment5\ShoppingWebsiteAPI\ShoppingWebsiteAPI\bin\Debug\netcoreapp2.2\ShoppingWebsiteAPI.pdb
+E:\learning\NEU\Web Development Tools and Methods\assignment\assignment5\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.csproj.CoreCompileInputs.cache
+E:\learning\NEU\Web Development Tools and Methods\assignment\assignment5\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.RazorAssemblyInfo.cache
+E:\learning\NEU\Web Development Tools and Methods\assignment\assignment5\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.RazorAssemblyInfo.cs
+E:\learning\NEU\Web Development Tools and Methods\assignment\assignment5\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.AssemblyInfoInputs.cache
+E:\learning\NEU\Web Development Tools and Methods\assignment\assignment5\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.AssemblyInfo.cs
+E:\learning\NEU\Web Development Tools and Methods\assignment\assignment5\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.RazorTargetAssemblyInfo.cache
+E:\learning\NEU\Web Development Tools and Methods\assignment\assignment5\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.dll
+E:\learning\NEU\Web Development Tools and Methods\assignment\assignment5\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.pdb
+E:\learning\NEU\Web Development Tools and Methods\assignment\assignment5\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.csprojAssemblyReference.cache
+E:\learning\NEU\Web Development Tools and Methods\assignment\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\bin\Debug\netcoreapp2.2\ShoppingWebsiteAPI.deps.json
+E:\learning\NEU\Web Development Tools and Methods\assignment\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\bin\Debug\netcoreapp2.2\ShoppingWebsiteAPI.runtimeconfig.json
+E:\learning\NEU\Web Development Tools and Methods\assignment\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\bin\Debug\netcoreapp2.2\ShoppingWebsiteAPI.runtimeconfig.dev.json
+E:\learning\NEU\Web Development Tools and Methods\assignment\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\bin\Debug\netcoreapp2.2\ShoppingWebsiteAPI.dll
+E:\learning\NEU\Web Development Tools and Methods\assignment\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\bin\Debug\netcoreapp2.2\ShoppingWebsiteAPI.pdb
+E:\learning\NEU\Web Development Tools and Methods\assignment\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.csprojAssemblyReference.cache
+E:\learning\NEU\Web Development Tools and Methods\assignment\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.csproj.CoreCompileInputs.cache
+E:\learning\NEU\Web Development Tools and Methods\assignment\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.RazorAssemblyInfo.cache
+E:\learning\NEU\Web Development Tools and Methods\assignment\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.RazorAssemblyInfo.cs
+E:\learning\NEU\Web Development Tools and Methods\assignment\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.AssemblyInfoInputs.cache
+E:\learning\NEU\Web Development Tools and Methods\assignment\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.AssemblyInfo.cs
+E:\learning\NEU\Web Development Tools and Methods\assignment\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.RazorTargetAssemblyInfo.cache
+E:\learning\NEU\Web Development Tools and Methods\assignment\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.dll
+E:\learning\NEU\Web Development Tools and Methods\assignment\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.pdb
+C:\Users\Administrator\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\bin\Debug\netcoreapp2.2\ShoppingWebsiteAPI.deps.json
+C:\Users\Administrator\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\bin\Debug\netcoreapp2.2\ShoppingWebsiteAPI.runtimeconfig.json
+C:\Users\Administrator\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\bin\Debug\netcoreapp2.2\ShoppingWebsiteAPI.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\bin\Debug\netcoreapp2.2\ShoppingWebsiteAPI.dll
+C:\Users\Administrator\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\bin\Debug\netcoreapp2.2\ShoppingWebsiteAPI.pdb
+C:\Users\Administrator\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.dll
+C:\Users\Administrator\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.pdb
+C:\Users\lixuy\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\bin\Debug\netcoreapp2.2\ShoppingWebsiteAPI.deps.json
+C:\Users\lixuy\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\bin\Debug\netcoreapp2.2\ShoppingWebsiteAPI.runtimeconfig.json
+C:\Users\lixuy\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\bin\Debug\netcoreapp2.2\ShoppingWebsiteAPI.runtimeconfig.dev.json
+C:\Users\lixuy\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\bin\Debug\netcoreapp2.2\ShoppingWebsiteAPI.dll
+C:\Users\lixuy\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\bin\Debug\netcoreapp2.2\ShoppingWebsiteAPI.pdb
+C:\Users\lixuy\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.csprojAssemblyReference.cache
+C:\Users\lixuy\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.csproj.CoreCompileInputs.cache
+C:\Users\lixuy\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.RazorAssemblyInfo.cache
+C:\Users\lixuy\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.RazorAssemblyInfo.cs
+C:\Users\lixuy\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.AssemblyInfoInputs.cache
+C:\Users\lixuy\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.AssemblyInfo.cs
+C:\Users\lixuy\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.RazorTargetAssemblyInfo.cache
+C:\Users\lixuy\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.dll
+C:\Users\lixuy\Desktop\FinalProject\ShoppingWebsiteAPI\ShoppingWebsiteAPI\obj\Debug\netcoreapp2.2\ShoppingWebsiteAPI.pdb
